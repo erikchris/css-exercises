@@ -3,16 +3,16 @@ p.odd {
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-div.second-line {
+#second-line {
     color: #0000ff;
     font-size: 36px;
 }
 
-div.third-line {
+#third-line {
     font-size: 24px;
 }
 
-div.fourth-line {
+#fourth-line {
     font-weight: bold;
     font-size: 24px;
     background-color: hsl(120, 100%, 75%);
