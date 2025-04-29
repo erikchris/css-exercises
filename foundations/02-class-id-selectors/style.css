@@ -3,7 +3,7 @@ p.odd {
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#second-line {
+.adjust-font-size {
     color: #0000ff;
     font-size: 36px;
 }
