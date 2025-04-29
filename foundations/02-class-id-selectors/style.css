@@ -1,0 +1,19 @@
+p.odd {
+    background-color: rgb(255, 228, 225);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+div.second-line {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+div.third-line {
+    font-size: 24px;
+}
+
+div.fourth-line {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: hsl(120, 100%, 75%);
+}
